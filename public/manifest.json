@@ -1,0 +1,23 @@
+{
+  "name": "Serenity3D",
+  "short_name": "Serenity",
+  "description": "AI Recovery Companion",
+  "theme_color": "#0a0502",
+  "background_color": "#0a0502",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "https://picsum.photos/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Serenity3D: AI Recovery Companion",
+  "description": "An immersive 3D mental health and addiction recovery app featuring an AI companion for support, mindfulness exercises, and progress tracking.",
+  "requestFramePermissions": ["microphone"]
+}
